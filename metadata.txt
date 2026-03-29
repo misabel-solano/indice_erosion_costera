@@ -1,0 +1,12 @@
+[general]
+name=Indice Erosion Costera
+description=Herramienta para calcular indice de erosion costera
+version=1.0
+qgisMinimumVersion=3.0
+author=Maria Isabel Solano Sanz
+email=isasolano97@gmail.com
+
+about=Plugin desarrollado para TFM SIG de codigo abierto
+
+category=Analysis
+icon=icon.png
